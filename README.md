@@ -1,1 +1,3 @@
 # netflixGPT
+
+update readme file
